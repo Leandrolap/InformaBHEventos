@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InformaBH_Eventos.View.FilmesCartaz"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#fdfcf8"
+             Title="FilmesCartaz">
+
+    <ScrollView>
+        <CollectionView x:Name="LtvFilmes">
+
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" Span="2" />
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+
+                    <Grid RowSpacing="2">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <Image Source="{Binding ImageFilme}"
+                        VerticalOptions="Start"
+                        Aspect="AspectFill"
+                        HeightRequest="200"
+                        WidthRequest="150"
+                        />
+
+                        <StackLayout Grid.Row="1"
+                              Margin="25,10"
+                              Orientation="Vertical"
+                              >
+
+                            <Label VerticalOptions="Center"
+                            Text="{Binding Titulo}"
+                            FontAttributes="Bold"
+                            TextColor="Black"/>
+
+                            <Label Text="{Binding Genero}"
+                            VerticalOptions="Start"
+                            MaxLines="4"
+                            FontAttributes="Italic"
+                            TextColor="Black"/>
+
+                            <Label Text="{Binding FaixaEtaria}"
+ VerticalOptions="Start"
+ MaxLines="4"
+ FontAttributes="Italic" 
+                            TextColor="Black"/>
+                        </StackLayout>
+
+                    </Grid>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </ScrollView>
+</ContentPage>

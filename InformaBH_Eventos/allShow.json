@@ -1,0 +1,72 @@
+[
+  {
+    "Titulo": "Banda Beliche",
+    "Local": "Olívio Bar",
+    "Descricao": "Show da banda Beliche com seus hits contagiantes.",
+    "Data": "28/03/2024",
+    "Imagem": "https://portalbelohorizonte.com.br/sites/default/files/styles/small/public/arquivos/eventos/2024-03/chama-apresenta-flyer-28-03.jpeg?itok=5k3s_CA1"
+  },
+  {
+    "Titulo": "Exciter",
+    "Local": "Mr. Rock Bar",
+    "Descricao": "Show da banda Exciter, ícone do heavy metal canadense.",
+    "Data": "28/03/2024",
+    "Imagem": "https://www.radiorock.com.br/wp-content/uploads/2023/12/exciter.jpg"
+  },
+  {
+    "Titulo": "Abba Experience In Concert",
+    "Local": "Palácio das Artes",
+    "Descricao": "Espetáculo que revive a magia da banda Abba com uma orquestra sinfônica.",
+    "Data": "29/03/2024",
+    "Imagem": "https://lh5.googleusercontent.com/proxy/Z-DLcCEkZqacpyrfytv3vmxIt8nmNJ2w8FIMnOwAz4OTOwOJQZwMO-oOBGf3nkL7N2V7TVz31wYpPvBZB4hC6s-BSSxMbizDWiCjO5ZkAH2uJA0h2Mkwmbtcw_lNEydyzhD8FoFW"
+  },
+  {
+    "Titulo": "Daniel 40 anos 'Celebra João Paulo e Daniel'",
+    "Local": "Chevrolet Hall",
+    "Descricao": "Show comemorativo dos 40 anos de carreira de Daniel, com participação especial de Daniel.",
+    "Data": "30/03/2024",
+    "Imagem": "https://assets.bileto.sympla.com.br/eventmanager/production/3ktk20303biv8h74auiq0dtnm10vhtl5pe4s3p0kl6pjdo1ihvc9v8m9q9cltiig06rr0t35t157e3656fuif8kg5qdto9ki1fh87es.webp"
+  },
+  {
+    "Titulo": "Restart 'Pra Você Lembrar Tour'",
+    "Local": "Carioca Club",
+    "Descricao": "Show da banda Restart com seus hits que marcaram uma geração.",
+    "Data": "31/03/2024",
+    "Imagem": "https://gkpb.com.br/wp-content/uploads/2023/08/restart-tour-despedida.png"
+  },
+  {
+    "Titulo": "Tributo a Elis & Tom",
+    "Local": "Sesc Palladium",
+    "Descricao": "Espetáculo que celebra a obra de Elis Regina e Tom Jobim.",
+    "Data": "01/04/2024",
+    "Imagem": "https://glaunacapital.files.wordpress.com/2024/01/tom-elis.jpeg"
+  },
+  {
+    "Titulo": "Jethro Tull",
+    "Local": "Km de Vantagens Hall",
+    "Descricao": "Show da lendária banda de rock progressivo Jethro Tull.",
+    "Data": "02/04/2024",
+    "Imagem": "https://www.radiorock.com.br/wp-content/uploads/2022/01/jethro-tull.jpg"
+  },
+  {
+    "Titulo": "NatiRuts",
+    "Local": "Chevrolet Hall",
+    "Descricao": "Show da banda NatiRuts com seu reggae contagiante.",
+    "Data": "08/06/2024",
+    "Imagem": "https://s2-g1.glbimg.com/z70BZ3M7aXGrrvVxYXOiAGHspjg=/0x0:900x506/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/Z/AoUPcYTLS1ZpQ1bWrTFA/natiruts-divulgacao-carlos-muller.jpg"
+  },
+  {
+    "Titulo": "Ivete Sangalo 3.0 - A Festa",
+    "Local": "Expominas",
+    "Descricao": "Show da cantora Ivete Sangalo com seu novo espetáculo.",
+    "Data": "29/06/2024",
+    "Imagem": "https://www.arteview.com.br/wp-content/uploads/2024/02/ivete-sangalo-a-festa-jpg.webp"
+  },
+  {
+    "Titulo": "Andrea Bocelli",
+    "Local": "Mineirão",
+    "Descricao": "Show do tenor Andrea Bocelli, um dos maiores nomes da música clássica.",
+    "Data": "03/08/2024",
+    "Imagem": "https://ogimg.infoglobo.com.br/in/23220128-c4b-1cf/FT1086A/77455369_SC-21-06-2018-Andrea-Bocelli-tenor-compositor-e-produtor-musical-italiano.-Foto-Andrea-Boce.jpg"
+  }
+]
