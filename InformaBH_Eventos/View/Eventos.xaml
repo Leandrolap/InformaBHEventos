@@ -3,9 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="InformaBH_Eventos.View.Eventos"
              NavigationPage.HasNavigationBar="False"
+             xmlns:mct="clr-namespace:CommunityToolkit.Maui.Behaviors;assembly=CommunityToolkit.Maui"
              Title="Eventos"
              BackgroundColor="#fdfcf8">
 
+    <ContentPage.Behaviors>
+        <mct:StatusBarBehavior StatusBarColor="black" />
+    </ContentPage.Behaviors>
 
     <ScrollView Margin="10,0">
         <CollectionView x:Name="LtvShow">
@@ -17,7 +21,11 @@
                         </Grid.RowDefinitions>
 
                         <Frame Padding="0">
-                            <Image Source="{Binding Imagem}" Aspect="AspectFill"/>
+                            <Image Source="{Binding Imagem}" Aspect="AspectFill">
+                                <Image.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="OnTappedDetalhe"/>
+                                </Image.GestureRecognizers>
+                            </Image>
                         </Frame>
 
                         <VerticalStackLayout BackgroundColor="#111111"
@@ -25,8 +33,15 @@
                                              VerticalOptions="End">
 
                             <VerticalStackLayout Padding="9">
-                                <Label Text="{Binding Titulo}" HorizontalOptions="Center" TextColor="#a0a0a0" FontSize="15" FontAttributes="Bold"/>
-                                <Label Text="{Binding Local}" HorizontalOptions="Center" TextColor="#a0a0a0"/>
+                                <Label Text="{Binding Titulo}" 
+                                       HorizontalOptions="Center" 
+                                       TextColor="#a0a0a0" 
+                                       FontSize="15" 
+                                       FontAttributes="Bold"/>
+                                
+                                <Label Text="{Binding Local}" 
+                                       HorizontalOptions="Center" 
+                                       TextColor="#a0a0a0"/>
                             </VerticalStackLayout>
                         </VerticalStackLayout>
                     </Grid>

@@ -27,4 +27,13 @@ public partial class Eventos : ContentPage
             LtvShow.ItemsSource = _shows;
         }
     }
+
+    private async void OnTappedDetalhe(object sender, TappedEventArgs e)
+    {
+        var selectedItem = (sender as Image)?.BindingContext as Shows;
+        if (selectedItem != null)
+        {
+            await Navigation.PushAsync(new DetalheShows(selectedItem));
+        }
+    }
 }

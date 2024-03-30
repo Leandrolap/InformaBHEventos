@@ -1,91 +1,94 @@
 [
-    {
-      "Titulo": "Godzilla e Kong: O Novo Império",
-      "Genero": "Ação, Aventura, Fantasia",
-      "FaixaEtaria": "12 anos",
-      "Sinopse": "Após a batalha épica contra Mechagodzilla, Godzilla e Kong se unem para enfrentar uma nova ameaça colossal que surge das profundezas do planeta.",
-      "TrailerUri": "https://www.youtube.com/watch?v=4aTCoDj-J_U",
-      "ImageFilme": "https://www.shoppingcidadedasflores.com.br/wp-content/uploads/sites/244/2024/03/godzilla-e-kong-novo-poster-nacional-1402-819x1024-1.jpg"
-    },
-    {
-      "Titulo": "Duna: Parte 2",
-      "Genero": "Aventura, Ficção Científica",
-      "FaixaEtaria": "14 anos",
-      "Sinopse": "Paul Atreides, agora um líder conhecido como Muad'Dib, busca garantir o futuro de seu povo e sua família em meio a um universo complexo e perigoso.",
-      "TrailerUri": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
-      "ImageFilme": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQS1Pvu6Q49AUQ5LKV1jpO0-zOnvkJQzquxI8YQx64_A&s"
-    },
-    {
-      "Titulo": "Os Farofeiros 2",
-      "Genero": "Comédia",
-      "FaixaEtaria": "14 anos",
-      "Sinopse": "Após o sucesso da primeira edição, os amigos Vini, Rico e Tainá se reúnem para mais uma aventura regada a festas e confusões.",
-      "TrailerUri": "https://www.youtube.com/watch?v=dvmR-li9yQE",
-      "ImageFilme": "https://br.web.img3.acsta.net/pictures/24/02/23/15/44/3187051.png"
-    },
-    {
-      "Titulo": "Alice no País das Trevas",
-      "Genero": "Terror",
-      "FaixaEtaria": "16 anos",
-      "Sinopse": "Alice, agora uma adulta, retorna ao País das Maravilhas, mas o lugar que ela conhecia está tomado por uma escuridão misteriosa.",
-      "TrailerUri": "https://www.youtube.com/watch?v=jSd1eSBtc8o",
-      "ImageFilme": "https://br.web.img3.acsta.net/c_310_420/pictures/24/03/07/19/13/5365440.png"
-    },
-    {
-      "Titulo": "Kung Fu Panda 4",
-      "Genero": "Aventura, Animação, Comédia",
-      "FaixaEtaria": "Livre",
-      "Sinopse": "Po e os Cinco Furiosos embarcam em uma nova aventura para enfrentar um vilão que ameaça a paz do Vale da Paz.",
-      "TrailerUri": "https://www.youtube.com/watch?v=_inKs4eeHiI",
-      "ImageFilme": "https://br.web.img3.acsta.net/pictures/23/12/13/18/13/4592801.jpg"
-    },
-    {
-      "Titulo": "Instinto Materno",
-      "Genero": "Thriller",
-      "FaixaEtaria": "16 anos",
-      "Sinopse": "Uma mãe fará de tudo para proteger seu filho quando ele se torna o principal suspeito de um crime brutal.",
-      "TrailerUri": "https://m.youtube.com/watch?v=Uy92T-_1FYs",
-      "ImageFilme": "https://www.reservacultural.com.br/wp-content/uploads/2024/03/Instinto-materno-poster.jpg"
-    },
-    {
-      "Titulo": "Uma Vida - A História de Nicholas Winton",
-      "Genero": "Drama, Biografia",
-      "FaixaEtaria": "12 anos",
-      "Sinopse": "A história real de Nicholas Winton, um corretor da bolsa que salvou a vida de 669 crianças durante o Holocausto.",
-      "TrailerUri": "https://www.youtube.com/watch?v=2LgpmdTYf1g",
-      "ImageFilme": "https://m.media-amazon.com/images/I/51CREwQqCUL._AC_UF1000,1000_QL80_.jpg"
-    },
+  {
+    "Titulo": "Godzilla e Kong: O Novo Império",
+    "Genero": "Ação, Aventura, Fantasia",
+    "FaixaEtaria": "12 anos",
+    "Sinopse": "Em Godzilla e Kong: O Novo Império, é um novo capítulo no chamado MonsterVerse, onde depois de terem se encontrado como inimigos em Godzila vs Kong, o poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que além de ameaçar sua própria existência também ameaça nossa espécie. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre. Dirigido novamente por Adam Wingard, a trama também trará de volta personagens conhecidos, além de introduzir um novo protagonista, interpretado por Dan Stevens.",
+    "TrailerUri": "https://www.youtube.com/embed/Pg3RvDPL4Cg",
+    "ImageFilme": "https://www.shoppingcidadedasflores.com.br/wp-content/uploads/sites/244/2024/03/godzilla-e-kong-novo-poster-nacional-1402-819x1024-1.jpg",
+    "Elenco": " Rebecca Hall, Brian Tyree Henry, Dan Stevens",
+    "Direcao": "Adam Wingard | Roteiro Terry Rossio, Simon Barrett",
+    "Duracao": "1h 55min"
+  },
+  {
+    "Titulo": "Duna: Parte 2",
+    "Genero": "Aventura, Ficção Científica",
+    "FaixaEtaria": "14 anos",
+    "Sinopse": "Paul Atreides, agora um líder conhecido como Muad'Dib, busca garantir o futuro de seu povo e sua família em meio a um universo complexo e perigoso.",
+    "TrailerUri": "https://www.youtube.com/embed/QqmbrvluQRA",
+    "ImageFilme": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQS1Pvu6Q49AUQ5LKV1jpO0-zOnvkJQzquxI8YQx64_A&s"
+  },
+  {
+    "Titulo": "Os Farofeiros 2",
+    "Genero": "Comédia",
+    "FaixaEtaria": "14 anos",
+    "Sinopse": "Após o sucesso da primeira edição, os amigos Vini, Rico e Tainá se reúnem para mais uma aventura regada a festas e confusões.",
+    "TrailerUri": "https://www.youtube.com/embed/QqmbrvluQRA",
+    "ImageFilme": "https://br.web.img3.acsta.net/pictures/24/02/23/15/44/3187051.png"
+  },
+  {
+    "Titulo": "Alice no País das Trevas",
+    "Genero": "Terror",
+    "FaixaEtaria": "16 anos",
+    "Sinopse": "Alice, agora uma adulta, retorna ao País das Maravilhas, mas o lugar que ela conhecia está tomado por uma escuridão misteriosa.",
+    "TrailerUri": "https://www.youtube.com/embed/ffyN7W9NcBA",
+    "ImageFilme": "https://br.web.img3.acsta.net/c_310_420/pictures/24/03/07/19/13/5365440.png"
+  },
+  {
+    "Titulo": "Kung Fu Panda 4",
+    "Genero": "Aventura, Animação, Comédia",
+    "FaixaEtaria": "Livre",
+    "Sinopse": "Po e os Cinco Furiosos embarcam em uma nova aventura para enfrentar um vilão que ameaça a paz do Vale da Paz.",
+    "TrailerUri": "https://www.youtube.com/embed/ffyN7W9NcBA",
+    "ImageFilme": "https://br.web.img3.acsta.net/pictures/23/12/13/18/13/4592801.jpg"
+  },
+  {
+    "Titulo": "Instinto Materno",
+    "Genero": "Thriller",
+    "FaixaEtaria": "16 anos",
+    "Sinopse": "Uma mãe fará de tudo para proteger seu filho quando ele se torna o principal suspeito de um crime brutal.",
+    "TrailerUri": "https://www.youtube.com/embed/Uy92T-_1FYs",
+    "ImageFilme": "https://www.reservacultural.com.br/wp-content/uploads/2024/03/Instinto-materno-poster.jpg"
+  },
+  {
+    "Titulo": "Uma Vida - A História de Nicholas Winton",
+    "Genero": "Drama, Biografia",
+    "FaixaEtaria": "12 anos",
+    "Sinopse": "A história real de Nicholas Winton, um corretor da bolsa que salvou a vida de 669 crianças durante o Holocausto.",
+    "TrailerUri": "https://www.youtube.com/embed/q4oCj3YvHPk",
+    "ImageFilme": "https://m.media-amazon.com/images/I/51CREwQqCUL._AC_UF1000,1000_QL80_.jpg"
+  },
   {
     "Titulo": "Nosso Lar 2: Os Mensageiros",
     "Genero": "Drama, Espiritismo",
     "FaixaEtaria": "10 anos",
     "Sinopse": "A continuação do filme 'Nosso Lar' que acompanha a jornada de André Luiz no plano espiritual.",
-    "TrailerUri": "https://m.youtube.com/watch?v=_8s_PpWwxG4",
+    "TrailerUri": "https://www.youtube.com/embed/aGHRjDoSYr0",
     "ImageFilme": "https://br.web.img3.acsta.net/pictures/23/04/24/16/38/3592850.png"
   },
-    {
-      "Titulo": "Apaixonada",
-      "Genero": "Romance",
-      "FaixaEtaria": "12 anos",
-      "Sinopse": "Uma jovem mulher se apaixona por um homem misterioso que esconde um segredo obscuro.",
-      "TrailerUri": "https://www.youtube.com/watch?v=Y2NagMPIma4",
-      "ImageFilme": "https://br.web.img2.acsta.net/c_310_420/pictures/23/11/30/20/57/3044754.jpg"
-    },
-    {
-      "Titulo": "Bob Marley: One Love",
-      "Genero": "Documentário, Música",
-      "FaixaEtaria": "12 anos",
-      "Sinopse": "Um documentário sobre a vida e a obra do músico Bob Marley.",
-      "TrailerUri": "https://www.youtube.com/watch?v=ajw425Kuvtw",
-      "ImageFilme": "https://upload.wikimedia.org/wikipedia/pt/0/06/Bob_Marley_One_Love.jpg"
-    },
-    {
-      "Titulo": "Gato Galáctico e o Feitiço do Tempo",
-      "Genero": "Aventura, Animação",
-      "FaixaEtaria": "Livre",
-      "Sinopse": "Um gato espacial embarca em uma aventura para salvar o universo de um feitiço maligno.",
-      "Trailer": "https://www.youtube.com/watch?v=spON2DWMJWM",
-      "ImageFilme": "https://br.web.img3.acsta.net/pictures/23/12/20/19/30/5631484.jpg"
+  {
+    "Titulo": "Apaixonada",
+    "Genero": "Romance",
+    "FaixaEtaria": "12 anos",
+    "Sinopse": "Uma jovem mulher se apaixona por um homem misterioso que esconde um segredo obscuro.",
+    "TrailerUri": "https://www.youtube.com/embed/Y2NagMPIma4",
+    "ImageFilme": "https://br.web.img2.acsta.net/c_310_420/pictures/23/11/30/20/57/3044754.jpg"
+  },
+  {
+    "Titulo": "Bob Marley: One Love",
+    "Genero": "Documentário, Música",
+    "FaixaEtaria": "12 anos",
+    "Sinopse": "Um documentário sobre a vida e a obra do músico Bob Marley.",
+    "TrailerUri": "https://www.youtube.com/embed/QJbg7XNaHH0",
+    "ImageFilme": "https://upload.wikimedia.org/wikipedia/pt/0/06/Bob_Marley_One_Love.jpg"
+  },
+  {
+    "Titulo": "Gato Galáctico e o Feitiço do Tempo",
+    "Genero": "Aventura, Animação",
+    "FaixaEtaria": "Livre",
+    "Sinopse": "Um gato espacial embarca em uma aventura para salvar o universo de um feitiço maligno.",
+    "Trailer": "https://www.youtube.com/embed/spON2DWMJWM",
+    "ImageFilme": "https://br.web.img3.acsta.net/pictures/23/12/20/19/30/5631484.jpg"
 
-    }
+  }
 ]

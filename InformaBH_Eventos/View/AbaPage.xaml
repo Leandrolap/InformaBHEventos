@@ -5,7 +5,9 @@
              x:Class="InformaBH_Eventos.View.AbaPage"
             xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
             android:TabbedPage.ToolbarPlacement="Bottom"
-             Title="AbaPage">
+             Title="AbaPage"
+            SelectedTabColor="#B22222"
+            UnselectedTabColor="Grey">
     
     <local:Eventos Title="Eventos"
                    IconImageSource="mic"/>
