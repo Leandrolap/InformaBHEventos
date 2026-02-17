@@ -1,6 +1,6 @@
 # INFORMA BH - EVENTOS
 
-nforma BH: O Guia Cultural da Capital Mineira
+##Informa BH: O Guia Cultural da Capital Mineira
 O Informa BH é um projeto de curadoria de eventos e entretenimento focado na cidade de Belo Horizonte. Originalmente lançado entre 2014 e 2015, o aplicativo marcou minha trajetória como o primeiro projeto autoral publicado na Windows Store para a plataforma Windows Phone. Em 2024, o projeto foi totalmente revitalizado e modernizado para atender ao ecossistema Android, unindo nostalgia e tecnologia atual.
 
 O que o aplicativo oferece:
